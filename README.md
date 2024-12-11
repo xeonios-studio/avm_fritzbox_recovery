@@ -38,7 +38,7 @@
 
 ## Mitwirkende
 
-- **Dein Name** – Hauptentwickler ([@xeonios-studio](https://github.com/xeonios-studio))
+- **TEAM** – Hauptentwickler ([@xeonios-studio](https://github.com/xeonios-studio))
 
 ## Lizenz
 
