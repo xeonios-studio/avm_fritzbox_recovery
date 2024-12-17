@@ -48,7 +48,7 @@
 
 - ## Images/Names
 
-- **Copyright** – Site ([@xeonios-studio]((https://avm.de/))
+- **Copyright** – (Site https://avm.de/)
 
 ## Lizenz
 
