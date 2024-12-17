@@ -16,9 +16,10 @@
 
 ## Voraussetzungen
 
-- Ein funktionierender Computer mit Windows, macOS oder Linux.
+- Ein funktionierender Computer mit LAN-Port.
+- System: Windows 8.1, Windows 10, Windows 11.
 - Eine Fritzbox im Bootloader-Modus, die repariert werden soll.
-- Zugang zu einer stabilen Internetverbindung, um die Firmware herunterzuladen.
+- Zugang zu einer stabilen LAN-Verbindung, um die Firmware Hochzuladen.
 
 ## Installation
 
