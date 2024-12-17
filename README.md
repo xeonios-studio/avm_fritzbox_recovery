@@ -1,6 +1,6 @@
 # FritzboxRecovery
 
-# Haftungsausschluss
+## Haftungsausschluss
 **WARNUNG**: Die Nutzung dieser Software erfolgt auf eigene Gefahr. Der Autor übernimmt keine Verantwortung für etwaige Folgen der Verwendung dieser Software.
 
 **FritzboxRecovery** ist ein Tool, das speziell entwickelt wurde, um AVM Fritzbox-Router zu retten, die im Bootloader-Modus hängen geblieben sind. Das Programm bietet eine Vielzahl von Funktionen, einschließlich der Wiederherstellung von Router-Firmware, der Entfernung von Provider-Branding und weiteren Reparaturmöglichkeiten.
