@@ -46,6 +46,10 @@
 
 - **TEAM** – Hauptentwickler ([@xeonios-studio](https://github.com/xeonios-studio))
 
+- ## Images/Names
+
+- **Copyright** – Site ([@xeonios-studio]((https://avm.de/))
+
 ## Lizenz
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die [LICENSE](LICENSE)-Datei für Details.
