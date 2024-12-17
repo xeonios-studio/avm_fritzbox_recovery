@@ -46,7 +46,7 @@
 
 - **TEAM** – Hauptentwickler ([@xeonios-studio](https://github.com/xeonios-studio))
 
-- ## Images/Names
+## Images/Names
 
 - **Copyright** – Site (https://avm.de/)
 
